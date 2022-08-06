@@ -1,0 +1,30 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas{
+    width: 35%;
+    height: max-content;
+    border-radius: 20px;
+    border:red solid 3px;
+}
+h1{
+    width: 100%;
+    height: min-content;
+    background-color: rgb(113, 13, 243);
+    margin-top: 0px;
+}
+
+body {
+    background-image:url("background.jpg");
+    background-size: cover;
+}
